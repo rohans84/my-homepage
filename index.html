@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Homepage</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Left Pane -->
+        <div class="left-pane">
+            <div class="clock-widget">
+                <div id="time">00:00:00</div>
+                <div id="date">Sunday, January 1</div>
+            </div>
+            
+            <div class="weather-widget" id="weather">
+                <div class="weather-icon">
+                    <i class="fas fa-cloud"></i>
+                </div>
+                <div class="weather-temp">--°F</div>
+                <div class="weather-condition">Loading...</div>
+                <div class="weather-location">Loading...</div>
+            </div>
+
+            <div class="quote-widget">
+                <p id="quote-text"></p>
+                <small id="quote-author"></small>
+            </div>
+        </div>
+
+        <!-- Right Pane -->
+        <div class="right-pane">
+            <div class="tabs" id="tabs">
+                <!-- Tabs will be generated here -->
+            </div>
+            <div id="tab-content">
+                <!-- Tab content will be generated here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="js/clock.js"></script>
+    <script src="js/weather.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html> 

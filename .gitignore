@@ -1,0 +1,6 @@
+# Sensitive data
+config/secrets.json
+images/backgrounds/
+# Other common files to ignore
+.DS_Store
+node_modules/ 

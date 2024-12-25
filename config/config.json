@@ -1,0 +1,178 @@
+{
+    "backgrounds": [
+        "DSC03302.JPG", "IMG_4445.JPG", "IMG_4459.JPG", 
+        "IMG_4540.jpeg", "IMG_4546.JPG", "IMG_6181.JPG", 
+        "aarav-ishi.jpeg", "files.csv", "my-fam.jpg"    
+    ],
+    "weather": {
+        "location": "San Francisco"
+    },
+    "quotes": [
+        {
+            "text": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs"
+        },
+        {
+            "text": "ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत्। (May all be happy, may all be free from illness, may all see what is auspicious, may no one suffer.)",
+            "author": "Shanti Mantra"
+        },
+        {
+            "text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। (You have the right to work only, but never to its fruits.)",
+            "author": "Bhagavad Gita"
+        },
+        {
+            "text": "धर्मो रक्षति रक्षितः (Dharma protects those who protect it.)",
+            "author": "Manusmriti"
+        },
+        {
+            "text": "आत्मनो मोक्षार्थं जगद्धिताय च (For one's own salvation and for the welfare of the world.)",
+            "author": "Mahabharat"
+        },
+        {
+            "text": "सत्यमेव जयते (Truth alone triumphs.)",
+            "author": "Mundaka Upanishad"
+        }
+    ],
+    "tabs": [
+        {
+            "name": "Google Apps",
+            "links": [
+                {
+                    "name": "Gmail",
+                    "url": "https://mail.google.com",
+                    "favicon": "https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"
+                },
+                {
+                    "name": "Drive",
+                    "url": "https://drive.google.com",
+                    "favicon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"
+                },
+                {
+                    "name": "Calendar",
+                    "url": "https://calendar.google.com",
+                    "favicon": "https://ssl.gstatic.com/calendar/images/favicon_v2014_32.png"
+                },
+                {
+                    "name": "YouTube",
+                    "url": "https://youtube.com",
+                    "favicon": "https://www.youtube.com/favicon.ico"
+                },
+                {
+                    "name": "YouTube Music",
+                    "url": "https://music.youtube.com",
+                    "favicon": "https://music.youtube.com/favicon.ico"
+                },
+                {
+                    "name": "Flights",
+                    "url": "https://www.google.com/travel/flights",
+                    "favicon": "https://www.gstatic.com/flights/app/icon-flights-32.png"
+                },
+                {
+                    "name": "Photos",
+                    "url": "https://photos.google.com",
+                    "favicon": "https://ssl.gstatic.com/photos/branding/favicon/prod/v2/32.png"
+                },
+                {
+                    "name": "Maps",
+                    "url": "https://maps.google.com",
+                    "favicon": "https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico"
+                }
+            ]
+        },        
+        {
+            "name": "Banking",
+            "links": [
+                {
+                    "name": "Bank of America",
+                    "url": "https://www.bankofamerica.com",
+                    "favicon": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-favicon-favicon-32x32.ico"
+                },
+                {
+                    "name": "Capital One",
+                    "url": "https://www.capitalone.com",
+                    "favicon": "https://www.capitalone.com/favicon.ico"
+                },
+                {
+                    "name": "American Express",
+                    "url": "https://www.americanexpress.com",
+                    "favicon": "https://www.americanexpress.com/favicon.ico"
+                },
+                {
+                    "name": "FNBO",
+                    "url": "https://www.fnbo.com",
+                    "favicon": "https://www.fnbo.com/favicon.ico"
+                },
+                {
+                    "name": "Citi",
+                    "url": "https://www.citi.com",
+                    "favicon": "https://www.citi.com/favicon.ico"
+                },
+                {
+                    "name": "Kotak",
+                    "url": "https://www.kotak.com",
+                    "favicon": "https://www.kotak.com/content/dam/Kotak/favicon.ico"
+                },
+                {
+                    "name": "ICICI Bank",
+                    "url": "https://www.icicibank.com",
+                    "favicon": "https://www.icicibank.com/favicon.ico"
+                }
+            ]
+        },
+        {
+            "name": "Investment",
+            "links": [
+                {
+                    "name": "E*Trade",
+                    "url": "https://www.etrade.com",
+                    "favicon": "https://cdn.etrade.net/1/23080217120.0/favicon.ico"
+                },
+                {
+                    "name": "Fidelity",
+                    "url": "https://digital.fidelity.com/ftgw/digital/portfolio/summary",
+                    "favicon": "https://www.fidelity.com/favicon.ico"
+                },
+                {
+                    "name": "Robinhood",
+                    "url": "https://robinhood.com",
+                    "favicon": "https://robinhood.com/favicon.ico"
+                },
+                {
+                    "name": "Wealthfront",
+                    "url": "https://www.wealthfront.com",
+                    "favicon": "https://www.wealthfront.com/favicon.ico"
+                },
+                {
+                    "name": "Betterment",
+                    "url": "https://www.betterment.com",
+                    "favicon": "https://www.betterment.com/favicon.ico"
+                }
+            ]
+        },
+        {
+            "name": "Shopping",
+            "links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com",
+                    "favicon": "https://www.amazon.com/favicon.ico"
+                },
+                {
+                    "name": "Costco",
+                    "url": "https://www.costco.com",
+                    "favicon": "https://www.costco.com/favicon.ico"
+                },
+                {
+                    "name": "Sam's Club",
+                    "url": "https://www.samsclub.com",
+                    "favicon": "https://www.samsclub.com/favicon.ico"
+                },
+                {
+                    "name": "Walmart",
+                    "url": "https://www.walmart.com",
+                    "favicon": "https://www.walmart.com/favicon.ico"
+                }
+            ]
+        }
+    ]
+} 
